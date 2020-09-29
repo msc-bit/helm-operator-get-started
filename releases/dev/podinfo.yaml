@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: mscbit/podinfo
-      tag: dev-7vw2vstd
+      tag: dev-vutsyvuc
     replicaCount: 1
     hpa:
       enabled: false
