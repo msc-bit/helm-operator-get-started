@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: mscbit/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-7vw2vstd
     replicaCount: 1
     hpa:
       enabled: false
