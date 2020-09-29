@@ -10,7 +10,7 @@ metadata:
 spec:
   releaseName: podinfo-prod
   chart:
-    git: https://msc-bit:vZ1H8dad9AKUzkaM30CK@github.com/msc-bit/helm-operator-get-started
+    git: https://msc-bit@github.com/msc-bit/helm-operator-get-started
     path: charts/podinfo
     ref: master
   values:
